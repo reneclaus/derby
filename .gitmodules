@@ -1,0 +1,3 @@
+[submodule "node_modules/racer"]
+	path = node_modules/racer
+	url = https://github.com/reneclaus/racer
