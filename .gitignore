@@ -1,7 +1,6 @@
 /bin/lib
 test-output.tmp
 *swp
-/node_modules/tracks
 /node_modules/stylus
 /node_modules/nib
 /node_modules/mkdirp
